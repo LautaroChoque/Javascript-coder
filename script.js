@@ -26,7 +26,7 @@ while(repetir){
         
     }
     else if(isNaN(numero)){
-        alert("Solo numeros pa")
+        alert("Solo numeros")
     }
     else{
         alert("Intentalo de nuevo")
